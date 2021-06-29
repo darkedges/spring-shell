@@ -9,7 +9,7 @@
 		<artifactId>spring-shell-parent</artifactId>
 		<groupId>org.springframework.shell</groupId>
 		<version>3.0.0.BUILD-SNAPSHOT</version>
-		<relativePath />
+		<relativePath>../pom.xml</relativePath>
 	</parent>
 
 	<dependencyManagement>
